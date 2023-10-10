@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WaterMat2
+  m_Shader: {fileID: 4800000, guid: be43eb4d4aebe45dfa156b3a2d0fbcb1, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 1998
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Distort:
+        m_Texture: {fileID: 2800000, guid: f10e246edaf7446fd8d290bef645d7c7, type: 3}
+        m_Scale: {x: 1.01, y: 0.97}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 32935372ba00e4b6b915b99b62c31b9d, type: 3}
+        m_Scale: {x: 5, y: 7}
+        m_Offset: {x: 0, y: 2.49}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise:
+        m_Texture: {fileID: 2800000, guid: 495be8819e69c41b39a47b173f0e8694, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 1.14, y: 2.32}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ToonShade:
+        m_Texture: {fileID: 8900000, guid: e1365177dae5c41068d5b0eacce7244e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WaterEdge:
+        m_Texture: {fileID: 2800000, guid: 52541d4e4ec8745618d59078394adcec, type: 3}
+        m_Scale: {x: 0.32, y: 0.98}
+        m_Offset: {x: 0.96, y: 0}
+    m_Floats:
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DistortX: 0.15
+    - _DistortY: 0.15
+    - _DstBlend: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _RandomHeight: 0.5
+    - _RandomSpeed: 0.5
+    - _Shininess: 1
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _WaveHeight: 0.5
+    - _WaveLength: 0.5
+    - _WaveSpeed: 1
+    - _ZWrite: 1
+    m_Colors:
+    - _BaseColor: {r: 0.71323526, g: 0.2727076, b: 0.2727076, a: 1}
+    - _Color: {r: 0, g: 0.5372549, b: 1, a: 1}
+    - _EdgeColor: {r: 0.75735295, g: 0.75735295, b: 0.75735295, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _NoiseOffset: {r: 0.2, g: 0.5, b: 5.5, a: 0.02}
+    - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
+    - _ToonColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []

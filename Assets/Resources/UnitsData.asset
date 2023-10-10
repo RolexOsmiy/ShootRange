@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f20498061324d4b94832442408603d97, type: 3}
+  m_Name: UnitsData
+  m_EditorClassIdentifier: 
+  maxUnitLevel: 8
+  maxBuildingLevel: 0
+  levelToHealth: 0a000000280000003c000000640000007800000078000000780000007800000078000000
+  levelBuildingToHealth: c8000000
+  levelToArrows: 01000000020000000300000004000000060000000a0000000e0000001100000014000000
